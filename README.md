@@ -183,7 +183,7 @@ public class HelloServiceImpl2 implements HelloService {
  * @author shuang.kou
  * @createTime 2020年05月10日 07:25:00
  */
-@RpcScan(basePackage = {"github.javaguide.serviceimpl"})
+@RpcScan(basePackage = {"github.rpc.serviceimpl"})
 public class NettyServerMain {
     public static void main(String[] args) {
         // Register service via annotation

@@ -1,1 +1,1 @@
-zk=github.javaguide.registry.zk.ZkServiceDiscoveryImpl
+zk=github.rpc.registry.zk.ZkServiceDiscoveryImpl
